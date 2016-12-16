@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+--a .git is created, we do to create a new rep or convert a directory to repo
