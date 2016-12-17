@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
+
 --a .git is created, we do to create a new rep or convert a directory to repo
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+--when creating a new feat. or fixing  bug
